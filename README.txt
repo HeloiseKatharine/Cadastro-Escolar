@@ -1,27 +1,34 @@
-*****************Integrantes do grupo*****************
+# Cadastro Escolar ðŸ“š
 
-Heloise Katharine Pereira Silva 
+Trabalho referente a disciplina de ProgramaÃ§Ã£o de Computadores I (PC1)
+***
+
+## instruÃ§Ãµes para a compilaÃ§Ã£o 
+
+Entre na pasta do trabalho e insira os seguintes comandos:
+
+    make all
+    ./main
+
+## descriÃ§Ã£o dos codigos
+
+### Modulo: 
+* modulo_disciplina.c 
+
+### DescriÃ§Ã£o: 
+* Obtem funÃ§Ãµes que manipulam as disciplinas da escola.
+
+### Modulo: 
+* modulo_pessoas.c 
+
+### DescriÃ§Ã£o: obtem funÃ§Ãµes que manipulam os cadastros de professores e alunos da escola.
+
+## Integrantes do grupo
+
+Heloise Katharine Pereira Silva
+
 Kacio Felipe 
+
 Ruan Soares Barroso
-
-
-*****************instruções para a compilação*****************
-
--entre na pasta do trabalho e insira os seguintes comandos:
-
-make all
-./main
-
-
-*****************descrição dos codigos*****************
-
-Modulo: modulo_disciplina.c 
-Descrição: obtem funções que manipulam as disciplinas da escola.
-
-Modulo: modulo_pessoas.c 
-Descrição: obtem funções que manipulam os cadastros de professores
-e alunos da escola.
-
-
 
 
