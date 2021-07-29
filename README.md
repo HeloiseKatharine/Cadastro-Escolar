@@ -15,9 +15,6 @@ Entre na pasta do trabalho e insira os seguintes comandos:
 ### Modulo: 
 * modulo_disciplina.c 
 
-### Descrição: 
-* Obtem funções que manipulam as disciplinas da escola.
-
 ### Modulo: 
 * modulo_pessoas.c 
 
