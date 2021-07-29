@@ -21,7 +21,8 @@ Entre na pasta do trabalho e insira os seguintes comandos:
 ### Modulo: 
 * modulo_pessoas.c 
 
-### Descrição: obtem funções que manipulam os cadastros de professores e alunos da escola.
+### Descrição: 
+* obtem funções que manipulam os cadastros de professores e alunos da escola.
 
 ## Integrantes do grupo
 
